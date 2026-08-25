@@ -1,11 +1,10 @@
 {
   "version": "4.16.6",
-  "time": 55.048,
+  "time": 28.846,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -112,7 +111,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2011",
         "stats": {
           "hash": "34949419d4bf2231d9c4f97f157605e5",
           "bytes": 22262961,
@@ -120,7 +119,7 @@
           "rows": 82506
         }
       },
-      "time": 3.184,
+      "time": 1.691,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -150,7 +149,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -257,7 +255,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2012",
         "stats": {
           "hash": "72ceb0ce3449fd118a422e017fdb550d",
           "bytes": 15232198,
@@ -265,7 +263,7 @@
           "rows": 57193
         }
       },
-      "time": 2.218,
+      "time": 1.142,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -295,7 +293,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -402,7 +399,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2013",
         "stats": {
           "hash": "42ccfbc50ef7319eadf45f9fe9dc4958",
           "bytes": 14340426,
@@ -410,7 +407,7 @@
           "rows": 53738
         }
       },
-      "time": 2.103,
+      "time": 1.084,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -440,7 +437,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -547,7 +543,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2014",
         "stats": {
           "hash": "1759130db4b7219abd49eb3c31856c62",
           "bytes": 29542273,
@@ -555,7 +551,7 @@
           "rows": 110763
         }
       },
-      "time": 4.294,
+      "time": 2.246,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -585,7 +581,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -692,7 +687,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2015",
         "stats": {
           "hash": "87c382e493172c6f118c96b2ba3b1dc9",
           "bytes": 32614173,
@@ -700,7 +695,7 @@
           "rows": 122300
         }
       },
-      "time": 4.678,
+      "time": 2.449,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -730,7 +725,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -837,7 +831,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2016",
         "stats": {
           "hash": "5be59ee15955423c8379c9e6632e9f25",
           "bytes": 30017836,
@@ -845,7 +839,7 @@
           "rows": 112181
         }
       },
-      "time": 4.382,
+      "time": 2.269,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -875,7 +869,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -982,7 +975,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2017",
         "stats": {
           "hash": "5cd4aee96bc9395a8e20a4cade9fcacd",
           "bytes": 28440775,
@@ -990,7 +983,7 @@
           "rows": 106079
         }
       },
-      "time": 4.088,
+      "time": 2.176,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1020,7 +1013,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1127,7 +1119,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2018",
         "stats": {
           "hash": "67912b9a433c22e384d10ca141288eca",
           "bytes": 25952011,
@@ -1135,7 +1127,7 @@
           "rows": 96857
         }
       },
-      "time": 3.74,
+      "time": 1.955,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1209,7 +1201,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1316,7 +1307,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2019",
         "stats": {
           "hash": "aae5e63871d1af1135a654060fc7f10a",
           "bytes": 26720745,
@@ -1324,7 +1315,7 @@
           "rows": 99624
         }
       },
-      "time": 3.875,
+      "time": 2.075,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1354,7 +1345,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1461,7 +1451,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2020",
         "stats": {
           "hash": "9bac776a947460aa13f7b3de75762e0c",
           "bytes": 21978946,
@@ -1469,7 +1459,7 @@
           "rows": 81810
         }
       },
-      "time": 3.167,
+      "time": 1.678,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1543,7 +1533,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1650,7 +1639,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2021",
         "stats": {
           "hash": "34949419d4bf2231d9c4f97f157605e5",
           "bytes": 22262961,
@@ -1658,7 +1647,7 @@
           "rows": 82506
         }
       },
-      "time": 3.189,
+      "time": 1.663,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1688,7 +1677,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1795,7 +1783,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2022",
         "stats": {
           "hash": "5405d93f2edc44c31d86a94877609968",
           "bytes": 23255286,
@@ -1803,7 +1791,7 @@
           "rows": 85968
         }
       },
-      "time": 3.356,
+      "time": 1.755,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1877,7 +1865,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1984,7 +1971,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2023",
         "stats": {
           "hash": "3a16ce86f4f05eb8f33b238f48b1d61c",
           "bytes": 24747218,
@@ -1992,7 +1979,7 @@
           "rows": 91118
         }
       },
-      "time": 3.531,
+      "time": 1.851,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -2022,7 +2009,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -2129,7 +2115,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2024",
         "stats": {
           "hash": "e972d89d92102ddd51b8b6f6e903b6de",
           "bytes": 24453732,
@@ -2137,7 +2123,7 @@
           "rows": 89810
         }
       },
-      "time": 3.485,
+      "time": 1.819,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -2167,7 +2153,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -2274,7 +2259,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2025",
         "stats": {
           "hash": "7fe269a17f523a2d6e0aca008572772c",
           "bytes": 24542814,
@@ -2282,7 +2267,7 @@
           "rows": 90295
         }
       },
-      "time": 3.506,
+      "time": 1.844,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -2312,7 +2297,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -2419,7 +2403,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Vítimas de Acidente Trânsito 2026",
         "stats": {
           "hash": "cba19ab0a0de6915c932de4b6ecee2f9",
           "bytes": 13809114,
@@ -2427,7 +2411,7 @@
           "rows": 50950
         }
       },
-      "time": 1.999,
+      "time": 1.024,
       "scope": [
         "hash-count-error",
         "byte-count-error",
