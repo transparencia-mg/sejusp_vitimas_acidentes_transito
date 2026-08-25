@@ -2,8 +2,7 @@ name: sejusp_vitimas_acidentes_transito
 owner_org: secretaria-de-estado-de-justica-e-seguranca-publica-sejusp
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -60,9 +59,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2011
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -119,9 +117,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2012
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -178,9 +175,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2013
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -237,9 +233,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2014
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -296,9 +291,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2015
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -355,9 +349,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2016
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -414,9 +407,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2017
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -473,9 +465,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2018
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -532,9 +523,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2019
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -591,9 +581,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2020
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -650,9 +639,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2021
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -709,9 +697,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2022
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -768,9 +755,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2023
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -827,9 +813,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2024
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -886,9 +871,8 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+    title: Vítimas de Acidente Trânsito 2025
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -945,5 +929,5 @@ resources:
         - name: numero_ocorrencia_env
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-title: Sejusp_vitimas_acidentes_transito
+    title: Vítimas de Acidente Trânsito 2026
+title: Vítimas de Acidente Trânsito - SEJUSP
